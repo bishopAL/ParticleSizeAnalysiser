@@ -1,7 +1,7 @@
 # ParticleSizeAnalysiser
 
 
-The particle size distribution of coffee powder can directly affect the flavor of coffee, but the average family will not buy a professional analyzer. This program will give you an idea of the size distribution of the coffee powder coming out of your grinder. This program won't give you specific radius but a rough distribution, like this figure which is belongs to C40.
+The particle size distribution of coffee powder can directly affect the flavor of coffee, but the average family will not buy a professional analyzer. This program will give you an idea of the size distribution of the coffee powder coming out of your grinder. Here is an example result by C40.
 
 ![Image text](https://raw.githubusercontent.com/bishopAL/ParticleSizeAnalysiser/master/result.png)
 
