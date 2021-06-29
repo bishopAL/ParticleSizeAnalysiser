@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import cv2
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import sys
 from matplotlib.ticker import FuncFormatter
@@ -32,6 +34,7 @@ for item in area_list:
 total = sum(low) + sum(mid) + sum(high)
 y = [sum(low)/total, sum(mid)/total, sum(high)/total]
 rad = ['Low rad', 'Mid rad', 'High rad']
+print(y)
  
 plt.bar(rad, y, alpha=0.5, width=0.5, label='Partical Size', lw=3)
 plt.legend()
