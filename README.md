@@ -12,7 +12,7 @@ The particle size distribution of coffee powder can directly affect the flavor o
 
 ## usage
 ```
-python ParticleSizeAnalysiser.py ./test.py
+python ParticleSizeAnalysiser.py ./test.jpg
 ```
 The *test.jpg* is just an example picture, you can replace it with your own picture.
 
