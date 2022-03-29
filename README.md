@@ -30,7 +30,9 @@ Here we test lagom mini, C40, we can see C40 has a better result!
 
 
 LagomMini_result
+
 ![avatar](https://github.com/bishopAL/ParticleSizeAnalysiser/blob/master/lagomMini_result.png)
 
 C40_result
+
 ![avatar](https://github.com/bishopAL/ParticleSizeAnalysiser/blob/master/c40_result.png)
