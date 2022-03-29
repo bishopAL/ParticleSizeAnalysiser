@@ -27,3 +27,7 @@ The second output is the standard deviation of median volume, the smaller standa
 The graph shows volume proportion of powder particles with different relative radii.
 
 Here we test lagom mini, C40, we can see C40 has a better result!
+
+![avatar](https://github.com/bishopAL/ParticleSizeAnalysiser/blob/master/lagomMini_result.png)
+
+![avatar](https://github.com/bishopAL/ParticleSizeAnalysiser/blob/master/c40_result.png)
