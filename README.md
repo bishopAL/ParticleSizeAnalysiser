@@ -36,3 +36,7 @@ LagomMini_result
 C40_result
 
 ![avatar](https://github.com/bishopAL/ParticleSizeAnalysiser/blob/master/c40_result.png)
+
+niche_result
+
+![avatar](https://github.com/bishopAL/ParticleSizeAnalysiser/blob/master/niche_result.png)
